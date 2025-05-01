@@ -1,5 +1,6 @@
-Video Game Sales Analysis and Insights
-Project Overview
+## Video Game Sales Analysis and Insights (EDA)
+
+#Project Overview
 Welcome to my Video Game Sales Analysis project! This project dives into exploratory data analysis (EDA) to uncover trends, patterns, and actionable insights from a dataset of 16,598 video games, covering sales, genres, platforms, publishers, and regional preferences. The goal is to answer key questions about game development strategies, such as what types of games to create, how regional preferences impact sales, and what drives global success. This repository contains the code, visualizations, and findings presented by me, Erfan Ebrahimi, and my collaborator, Sadegh Mosazade.
 Motivation
 As a data enthusiast and gaming lover, I wanted to explore how data can guide game development decisions. By analyzing sales trends and player behavior, this project aims to provide practical recommendations for developers and publishers to optimize game design, target specific markets, and time releases effectively.
